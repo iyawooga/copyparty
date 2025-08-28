@@ -193,7 +193,7 @@ some recommended options:
   * see [accounts and volumes](#accounts-and-volumes) (or `--help-accounts`) for the syntax and other permissions
 
 
-### at home
+### at home/on holiday
 
 make it accessible over the internet  by starting a [cloudflare quicktunnel](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/do-more-with-tunnels/trycloudflare/) like so:
 
